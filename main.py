@@ -1,4 +1,3 @@
-!pip install streamlit
 import streamlit as st
 from ScriptSquad_1_LibraryCatalog import (
     add_book, search_by_author, search_by_genre,
